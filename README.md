@@ -17,6 +17,6 @@
 
 ## GitHub Stats
 
-<p align="left">
+<p align="centre">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer" alt="cameron-taberer" />
 </p>
