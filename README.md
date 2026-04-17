@@ -7,7 +7,7 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a><a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>
+  <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" />
 </p>
 
 ## Languages and Tools
