@@ -1,11 +1,10 @@
 # Hi, I'm
 
-<pre>
+```text
    ____                            ______      __
   / __/__ ____ _  ___ _______ ___ /_  __/___ _/ /  ___ _______ ____
  / _// _ `/  ' \/ -_) __/ _ `(_-<  / / / _ `/ _ \/ -_) __/ -_) __/
 /___/\_,_/_/_/_/\__/_/  \_,_/___/ /_/  \_,_/_.__/\__/_/  \__/_/
-</pre>
 
 ### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
