@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cameron Taberer
+# Hi, I'm Cameron Taberer
 
 ### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=cameron-taberer&label=Profile%20views&color=0e75b6&style=flat" alt="cameron-taberer" />
 </p>
 
-- 📫 How to reach me **camerontaberer@icloud.com**
+- You can reach me at **camerontaberer@icloud.com**
 
 ## Connect with me
 
