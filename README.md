@@ -22,9 +22,5 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cameron-taberer&show_icons=true&locale=en" alt="cameron-taberer" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer" alt="cameron-taberer" />
 </p>
