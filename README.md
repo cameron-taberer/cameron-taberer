@@ -23,12 +23,7 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a><a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>
 </p>
 
 ## Languages and Tools
