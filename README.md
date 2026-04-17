@@ -1,4 +1,4 @@
-# Hi, I'm Cameron Taberer
+# Hi, I'm
 
 <pre>
    ____                            ______      __
