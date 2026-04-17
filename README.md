@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cameron Taberer
 
-### Software developer focused on AWS, Python, React, Angular, and automation. Building trading systems, internal tools, and scalable web products.
+### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cameron-taberer&label=Profile%20views&color=0e75b6&style=flat" alt="cameron-taberer" />
@@ -20,6 +20,10 @@
 </p>
 
 ## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cameron-taberer&show_icons=true&locale=en" alt="cameron-taberer" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer" alt="cameron-taberer" />
