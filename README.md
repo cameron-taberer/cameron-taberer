@@ -10,12 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40" />
-  </a>
+  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
