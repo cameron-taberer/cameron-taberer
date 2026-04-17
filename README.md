@@ -1,8 +1,11 @@
-# Hi, I'm
+# Hi, I'm Cameron Taberer
+
+<pre>
    ____                            ______      __
   / __/__ ____ _  ___ _______ ___ /_  __/___ _/ /  ___ _______ ____
  / _// _ `/  ' \/ -_) __/ _ `(_-<  / / / _ `/ _ \/ -_) __/ -_) __/
 /___/\_,_/_/_/_/\__/_/  \_,_/___/ /_/  \_,_/_.__/\__/_/  \__/_/
+</pre>
 
 ### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
@@ -11,7 +14,12 @@
 ## Connect with me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" />
+  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ## Languages and Tools
