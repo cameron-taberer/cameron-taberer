@@ -6,8 +6,14 @@
 
 ## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cameron-taberer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-errois-taberer-b2765921a)
+<p align="left">
+  <a href="https://github.com/cameron-taberer" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ## Languages and Tools
 
@@ -18,5 +24,10 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer" alt="cameron-taberer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cameron-taberer&show_icons=true&theme=github_dark&hide_border=true" alt="Cameron Taberer GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=github-dark-blue&hide_border=true" alt="cameron-taberer streak stats" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameron-taberer&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="180" />
 </p>
