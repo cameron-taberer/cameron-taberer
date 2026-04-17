@@ -2,10 +2,6 @@
 
 ### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cameron-taberer&label=Profile%20views&color=0e75b6&style=flat" alt="cameron-taberer" />
-</p>
-
 - You can reach me at **camerontaberer@icloud.com**
 
 ## Connect with me
