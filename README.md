@@ -35,6 +35,5 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cameron-taberer&show_icons=true&theme=github_dark&hide_border=true" alt="Cameron Taberer GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=github-dark-blue&hide_border=true" alt="cameron-taberer streak stats" height="180" />
 </p>
