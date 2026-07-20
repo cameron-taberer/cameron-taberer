@@ -23,7 +23,12 @@
 ## Connect with me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" />
+  <a href="https://github.com/cameron-taberer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ## Languages and Tools
