@@ -20,16 +20,7 @@
 
 - You can reach me at **camerontaberer@icloud.com**
 
-## Connect with me
-
-<p align="left">
-  <a href="https://github.com/cameron-taberer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+## Connect with me <p align="left"> <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" /> </p>
 
 ## Languages and Tools
 
