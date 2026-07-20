@@ -20,7 +20,9 @@
 
 - You can reach me at **camerontaberer@icloud.com**
 
-## Connect with me <p align="left"> <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" /> </p>
+## Connect with me 
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" /> </p>
 
 ## Languages and Tools
 
