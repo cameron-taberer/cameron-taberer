@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" role="img" aria-label="Hacker interface gridline section accent">
+  <defs>
+    <pattern id="grid" width="32" height="24" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V24" fill="none" stroke="#00D9FF" stroke-opacity=".17" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity=".95"/>
+      <stop offset=".55" stop-color="#00A6C7" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="48" fill="#0D171B"/>
+  <rect width="1200" height="48" fill="url(#grid)"/>
+  <path d="M0 1H1200M0 47H1200" stroke="#00D9FF" stroke-opacity=".6"/>
+  <path d="M0 24H1200" stroke="url(#fade)" stroke-width="2"/>
+  <path d="M18 10V38M1182 10V38" stroke="#00D9FF" stroke-width="2"/>
+  <path d="M600 1V7M600 41V47" stroke="#FF3855" stroke-width="2"/>
+  <circle cx="18" cy="24" r="4" fill="#00D9FF"/>
+</svg>
