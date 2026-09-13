@@ -5,11 +5,12 @@
 </div>
 
 <br />
-<br />
 
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
 Full stack software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, scalable web products, and mobile app development.
+
+<br />
 
 <img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
@@ -17,16 +18,16 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <img src="./assets/systems-panel.svg" width="100%" alt="Systems I build" />
 </div>
 
+<br />
+
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
-<br />
 <br />
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts&perline=11" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
 </div>
 
-<br />
 <br />
 
 <img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
@@ -44,7 +45,6 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <img src="./assets/closing-quote.svg" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
 </div>
 
-<br />
 <br />
 
 <div align="center">
