@@ -24,7 +24,9 @@ and automation — from trading tools to internal business platforms.
 [ SHIPPING SCALABLE PRODUCTS ]  [ ACCESS: GRANTED ]
 </pre>
 
-<img src="./assets/sections/01-profile.svg" width="100%" alt="01 // PROFILE" />
+<img src="./assets/red-divider.svg" width="100%" alt="" />
+
+<img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
 I’m a software developer focused on building useful, reliable software that connects people, data, and automated workflows.
 
@@ -35,7 +37,9 @@ My main areas of interest are:
 - AWS-backed applications and serverless automation
 - Scalable web products and API integrations
 
-<img src="./assets/sections/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
 | System | Focus | Typical stack |
 | --- | --- | --- |
@@ -44,7 +48,9 @@ My main areas of interest are:
 | Automation systems | Event-driven processes and operational tooling | Python, AWS Lambda, APIs |
 | Web products | Responsive, maintainable applications | React, Angular, TypeScript |
 
-<img src="./assets/sections/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
+<img src="./assets/red-divider.svg" width="100%" alt="" />
+
+<img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <div align="center">
 
@@ -66,7 +72,9 @@ My main areas of interest are:
 
 </details>
 
-<img src="./assets/sections/04-operating-mode.svg" width="100%" alt="04 // CURRENT OPERATING MODE" />
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<img src="./assets/04-operating-mode.svg" width="100%" alt="04 // CURRENT OPERATING MODE" />
 
 <div align="center">
 
@@ -76,7 +84,9 @@ My main areas of interest are:
 
 </div>
 
-<img src="./assets/sections/05-telemetry.svg" width="100%" alt="05 // GITHUB TELEMETRY" />
+<img src="./assets/red-divider.svg" width="100%" alt="" />
+
+<img src="./assets/05-telemetry.svg" width="100%" alt="05 // GITHUB TELEMETRY" />
 
 <div align="center">
 
@@ -89,7 +99,9 @@ My main areas of interest are:
 
 </div>
 
-<img src="./assets/sections/06-connect.svg" width="100%" alt="06 // CONNECT" />
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<img src="./assets/06-connect.svg" width="100%" alt="06 // CONNECT" />
 
 <div align="center">
 
