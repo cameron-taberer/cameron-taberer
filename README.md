@@ -34,10 +34,13 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 
 <img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
 
-<p align="center">
-  <a href="https://github.com/cameron-taberer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/cameron-taberer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-</p>
+<div align="center">
+<img src="./assets/connect-panel.svg" width="100%" alt="Connect channels" />
+<br />
+<a href="https://github.com/cameron-taberer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+</div>
 
 <div align="center">
 
