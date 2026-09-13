@@ -10,7 +10,9 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 
 <img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
-<img src="./assets/systems-panel.svg" width="100%" alt="Systems I build: trading tools, internal platforms, automation systems, and web products" />
+<div align="center">
+<img src="./assets/systems-panel.svg" width="100%" alt="Systems I build" />
+</div>
 
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
