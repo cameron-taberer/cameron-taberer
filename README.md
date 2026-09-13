@@ -33,16 +33,17 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3" height="180" alt="Cameron's GitHub contribution streak" />
 </div>
 
-<img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
+<br />
+
+<div align="center">
+<img src="./assets/closing-quote.svg" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
+</div>
+
+<br />
+<br />
 
 <div align="center">
 <a href="https://github.com/cameron-taberer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cameron-errois-taberer-b2765921a"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-</div>
-
-<br />
-
-<div align="center">
-<img src="./assets/closing-quote.svg" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
 </div>
