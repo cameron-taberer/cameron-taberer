@@ -44,5 +44,5 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <br />
 
 <div align="center">
-<img src="./assets/closing-quote.svg" width="100%" alt="Closing quote" />
+<img src="./assets/closing-quote.png" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
 </div>
