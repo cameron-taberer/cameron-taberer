@@ -1,60 +1,22 @@
 <div align="center">
-<img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer — Software Developer, Automation and Systems" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer — Software Developer" />
 <br />
 <img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
-<img src="https://img.shields.io/badge/LOCATION-SOUTH_AFRICA-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Location: South Africa" />
-<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Focus: Automation" />
 </div>
-
-<pre>
-WATCHDOGS_OS // PROFILE NODE 01
-CAMERON TABERER // SOFTWARE DEVELOPER
-
-Building practical systems with AWS, Python, React, Angular,
-and automation — from trading tools to internal business platforms.
-
-[ DESIGNING RELIABLE WORKFLOWS ]  [ SIGNAL: ONLINE ]
-[ TURNING COMPLEX PROCESSES INTO USABLE SOFTWARE ]
-[ SHIPPING SCALABLE PRODUCTS ]  [ ACCESS: GRANTED ]
-</pre>
 
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
-I’m a software developer focused on building useful, reliable software that connects people, data, and automated workflows.
-
-My main areas of interest are:
-
-- Trading systems and market analytics
-- Internal tools and invoicing workflows
-- AWS-backed applications and serverless automation
-- Scalable web products and API integrations
+Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
 <img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
-| System | Focus | Typical stack |
-| --- | --- | --- |
-| Trading tools | Market data, technical analysis, multi-timeframe analytics | Python, cTrader API, React |
-| Internal platforms | Business workflows, invoicing, reporting, user guidance | Angular, AWS, PostgreSQL |
-| Automation systems | Event-driven processes and operational tooling | Python, AWS Lambda, APIs |
-| Web products | Responsive, maintainable applications | React, Angular, TypeScript |
+<img src="./assets/systems-panel.svg" width="100%" alt="Systems I build: trading tools, internal platforms, automation systems, and web products" />
 
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
 </div>
-
-<details>
-<summary><code>STACK_DETAILS.exe</code></summary>
-
-| Layer | Technologies |
-| --- | --- |
-| Cloud & infrastructure | AWS, Azure, Docker, Linux |
-| Backend | Python, Node.js, .NET, Express, NestJS |
-| Frontend | React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
-| Data | PostgreSQL, MySQL, SQLite |
-| Testing & tooling | Jest, Postman, Git, Figma |
-</details>
 
 <img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
 
@@ -68,16 +30,16 @@ My main areas of interest are:
 <img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
 
 <div align="center">
-<a href="mailto:camerontaberer@icloud.com"><img src="https://img.shields.io/badge/EMAIL-camerontaberer%40icloud.com-00D9FF?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D171B" alt="Email Cameron" /></a>
-<a href="https://github.com/cameron-taberer"><img src="https://img.shields.io/badge/GITHUB-cameron--taberer-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D171B" alt="Cameron's GitHub" /></a>
+<a href="https://www.linkedin.com/in/cameron-taberer"><img src="https://img.shields.io/badge/LinkedIn-cameron--taberer-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D171B" alt="Cameron's LinkedIn" /></a>
+<a href="https://github.com/cameron-taberer"><img src="https://img.shields.io/badge/GitHub-cameron--taberer-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D171B" alt="Cameron's GitHub" /></a>
 </div>
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  SYSTEM READY  //  BUILD SOMETHING USEFUL  //  KEEP MOVING FORWARD  ║
-╚══════════════════════════════════════════════════════════════════════╝
+"The impediment to action advances action.
+ What stands in the way becomes the way."
+                                          — Marcus Aurelius
 ```
 
 </div>
