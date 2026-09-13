@@ -16,11 +16,12 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
+<br />
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
+<img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts&perline=11" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
 </div>
 
-<br />
 <br />
 
 <img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
@@ -43,5 +44,5 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <br />
 
 <div align="center">
-<img src="./assets/closing-quote.svg" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
+<img src="./assets/closing-quote.svg" width="100%" alt="Closing quote" />
 </div>
