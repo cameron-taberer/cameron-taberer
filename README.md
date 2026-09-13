@@ -1,16 +1,10 @@
 <div align="center">
-
 <img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer — Software Developer, Automation and Systems" />
-
 <br />
-
 <img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
 <img src="https://img.shields.io/badge/LOCATION-SOUTH_AFRICA-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Location: South Africa" />
 <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Focus: Automation" />
-
 </div>
-
-<br />
 
 <pre>
 WATCHDOGS_OS // PROFILE NODE 01
@@ -47,14 +41,11 @@ My main areas of interest are:
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
-
 </div>
 
 <details>
 <summary><code>STACK_DETAILS.exe</code></summary>
-<br />
 
 | Layer | Technologies |
 | --- | --- |
@@ -63,42 +54,23 @@ My main areas of interest are:
 | Frontend | React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
 | Data | PostgreSQL, MySQL, SQLite |
 | Testing & tooling | Jest, Postman, Git, Figma |
-
 </details>
 
-<img src="./assets/04-operating-mode.svg" width="100%" alt="04 // CURRENT OPERATING MODE" />
+<img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-ADVANCED_SYSTEM_DESIGN-00D9FF?style=flat-square&labelColor=0D171B" alt="Learning advanced system design" />
-<img src="https://img.shields.io/badge/BUILDING-TRADING_%26_INTERNAL_TOOLS-00D9FF?style=flat-square&labelColor=0D171B" alt="Building trading and internal tools" />
-<img src="https://img.shields.io/badge/IMPROVING-RELIABILITY_%26_AUTOMATION-00D9FF?style=flat-square&labelColor=0D171B" alt="Improving reliability and automation" />
-
-</div>
-
-<img src="./assets/05-telemetry.svg" width="100%" alt="05 // GITHUB TELEMETRY" />
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's GitHub statistics" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's most used programming languages" />
-
 <br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3" height="180" alt="Cameron's GitHub contribution streak" />
-
 </div>
 
-<img src="./assets/06-connect.svg" width="100%" alt="06 // CONNECT" />
+<img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
 
 <div align="center">
-
 <a href="mailto:camerontaberer@icloud.com"><img src="https://img.shields.io/badge/EMAIL-camerontaberer%40icloud.com-00D9FF?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D171B" alt="Email Cameron" /></a>
 <a href="https://github.com/cameron-taberer"><img src="https://img.shields.io/badge/GITHUB-cameron--taberer-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D171B" alt="Cameron's GitHub" /></a>
-
 </div>
-
-<br />
 
 <div align="center">
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" role="img" aria-labelledby="title">
-  <title id="title">01 // PROFILE</title>
+  <title id="title">04 // GITHUB TELEMETRY</title>
   <defs>
     <pattern id="grid" width="32" height="24" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V24" fill="none" stroke="#00D9FF" stroke-opacity=".14"/>
@@ -10,6 +10,6 @@
   <path d="M0 1H1200M0 47H1200" stroke="#00D9FF" stroke-opacity=".55"/>
   <path d="M18 10V38M1182 10V38" stroke="#00D9FF" stroke-width="2"/>
   <circle cx="18" cy="24" r="3.5" fill="#00D9FF"/>
-  <text x="40" y="31" fill="#E6E6E6" font-family="monospace" font-size="20" font-weight="700" letter-spacing="2">01 // PROFILE</text>
-  <text x="1162" y="30" text-anchor="end" fill="#7D9BA3" font-family="monospace" font-size="11" letter-spacing="2">IDENTITY // ONLINE</text>
+  <text x="40" y="31" fill="#E6E6E6" font-family="monospace" font-size="20" font-weight="700" letter-spacing="2">04 // GITHUB TELEMETRY</text>
+  <text x="1162" y="30" text-anchor="end" fill="#7D9BA3" font-family="monospace" font-size="11" letter-spacing="2">TELEMETRY // SYNCED</text>
 </svg>
