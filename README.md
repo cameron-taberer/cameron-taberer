@@ -1,20 +1,20 @@
 <div align="center">
-<img src="./assets/profile-banner.png" width="100%" alt="Cameron Taberer - Software Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer - Software Developer" />
 <br />
 <img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
 </div>
 
-<img src="./assets/01-profile.png" width="100%" alt="01 // PROFILE" />
+<img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
 Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
 
-<img src="./assets/02-systems.png" width="100%" alt="02 // SYSTEMS I BUILD" />
+<img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
 <div align="center">
-<img src="./assets/systems-panel.png" width="100%" alt="Systems I build" />
+<img src="./assets/systems-panel.svg" width="100%" alt="Systems I build" />
 </div>
 
-<img src="./assets/03-technology.png" width="100%" alt="03 // TECHNOLOGY MATRIX" />
+<img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <br />
 
@@ -24,7 +24,7 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 
 <br />
 
-<img src="./assets/04-telemetry.png" width="100%" alt="04 // GITHUB TELEMETRY" />
+<img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's GitHub statistics" />
@@ -33,7 +33,7 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3" height="180" alt="Cameron's GitHub contribution streak" />
 </div>
 
-<img src="./assets/05-connect.png" width="100%" alt="05 // CONNECT" />
+<img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
 
 <div align="center">
 <a href="https://github.com/cameron-taberer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
@@ -44,5 +44,5 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <br />
 
 <div align="center">
-<img src="./assets/closing-quote.png" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
+<img src="./assets/closing-quote.svg" width="100%" alt="Do not resent those who achieve more than you. Resent only that they were given the same days and spent them better." />
 </div>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00D9FF" stroke-opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="180" fill="#0A1216"/>
+  <rect width="1200" height="180" fill="url(#grid)"/>
+  <rect x="16" y="16" width="1168" height="148" fill="none" stroke="#00D9FF" stroke-opacity="0.45" stroke-width="1.5"/>
+  <path d="M16 48H1184" stroke="#00D9FF" stroke-opacity="0.2"/>
+  <circle cx="40" cy="32" r="4" fill="#00D9FF"/>
+  <text x="56" y="37" fill="#00D9FF" font-family="monospace" font-size="12" letter-spacing="2">FINAL TRANSMISSION</text>
+  <text x="1160" y="37" text-anchor="end" fill="#7D9BA3" font-family="monospace" font-size="11" letter-spacing="2">SIGNAL // CLOSING</text>
+  <text x="600" y="88" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Do not resent those who achieve more than you.</text>
+  <text x="600" y="118" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Resent only that they were given the same days</text>
+  <text x="600" y="148" text-anchor="middle" fill="#00D9FF" font-family="monospace" font-size="18" letter-spacing="1">and spent them better.</text>
+</svg>
