@@ -1,37 +1,155 @@
-# Hi, I'm
+<div align="center">
 
-<pre>
- ██████╗ █████╗ ███╗   ███╗███████╗██████╗  ██████╗ ███╗   ██╗
-██╔════╝██╔══██╗████╗ ████║██╔════╝██╔══██╗██╔═══██╗████╗  ██║
-██║     ███████║██╔████╔██║█████╗  ██████╔╝██║   ██║██╔██╗ ██║
-██║     ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║
-╚██████╗██║  ██║██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝██║ ╚████║
- ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+<img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer — Software Developer, Automation and Systems" />
 
-████████╗ █████╗ ██████╗ ███████╗██████╗ ███████╗██████╗ 
-╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗
-   ██║   ███████║██████╔╝█████╗  ██████╔╝█████╗  ██████╔╝
-   ██║   ██╔══██║██╔══██╗██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗
-   ██║   ██║  ██║██████╔╝███████╗██║  ██║███████╗██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
+<br />
 
-### Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
+<img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
+<img src="https://img.shields.io/badge/LOCATION-SOUTH_AFRICA-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Location: South Africa" />
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Focus: Automation" />
 
-- You can reach me at **camerontaberer@icloud.com**
+</div>
 
-## Connect with me 
+<br />
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=github,linkedin" alt="GitHub and LinkedIn" /> </p>
+> WATCHDOGS_OS // PROFILE NODE 01
+> CAMERON TABERER // SOFTWARE DEVELOPER
+>
+> Building practical systems with AWS, Python, React, Angular,
+> and automation — from trading tools to internal business platforms.
+>
+> [ DESIGNING RELIABLE WORKFLOWS ]  [ SIGNAL: ONLINE ]
+> [ TURNING COMPLEX PROCESSES INTO USABLE SOFTWARE ]
+> [ SHIPPING SCALABLE PRODUCTS ]  [ ACCESS: GRANTED ]
 
-## Languages and Tools
+<h2><code>01 // PROFILE</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,js,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="skills" />
-</p>
+I’m a software developer focused on building useful, reliable software that connects people, data, and automated workflows.
 
-## GitHub Stats
+My main areas of interest are:
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=github-dark-blue&hide_border=true" alt="cameron-taberer streak stats" height="180" />
-</p>
+Trading systems and market analytics
+
+Internal tools and invoicing workflows
+
+AWS-backed applications and serverless automation
+
+Scalable web products and API integrations
+
+<h2><code>02 // SYSTEMS I BUILD</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+System
+
+Focus
+
+Typical stack
+
+Trading tools
+
+Market data, technical analysis, multi-timeframe analytics
+
+Python, cTrader API, React
+
+Internal platforms
+
+Business workflows, invoicing, reporting, user guidance
+
+Angular, AWS, PostgreSQL
+
+Automation systems
+
+Event-driven processes and operational tooling
+
+Python, AWS Lambda, APIs
+
+Web products
+
+Responsive, maintainable applications
+
+React, Angular, TypeScript
+
+<h2><code>03 // TECHNOLOGY MATRIX</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
+
+</div>
+
+<details>
+<summary><code>STACK_DETAILS.exe</code></summary>
+<br />
+
+Layer
+
+Technologies
+
+Cloud & infrastructure
+
+AWS, Azure, Docker, Linux
+
+Backend
+
+Python, Node.js, .NET, Express, NestJS
+
+Frontend
+
+React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap
+
+Data
+
+PostgreSQL, MySQL, SQLite
+
+Testing & tooling
+
+Jest, Postman, Git, Figma
+
+</details>
+
+<h2><code>04 // CURRENT OPERATING MODE</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-ADVANCED_SYSTEM_DESIGN-00D9FF?style=flat-square&labelColor=0D171B" alt="Learning advanced system design" />
+<img src="https://img.shields.io/badge/BUILDING-TRADING_%26_INTERNAL_TOOLS-00D9FF?style=flat-square&labelColor=0D171B" alt="Building trading and internal tools" />
+<img src="https://img.shields.io/badge/IMPROVING-RELIABILITY_%26_AUTOMATION-00D9FF?style=flat-square&labelColor=0D171B" alt="Improving reliability and automation" />
+
+</div>
+
+<h2><code>05 // GITHUB TELEMETRY</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's most used programming languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=FF3855&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3" height="180" alt="Cameron's GitHub contribution streak" />
+
+</div>
+
+<h2><code>06 // CONNECT</code></h2>
+<img src="./assets/red-accent.svg" width="100%" alt="" />
+
+<div align="center">
+
+<a href="mailto:camerontaberer@icloud.com"><img src="https://img.shields.io/badge/EMAIL-camerontaberer%40icloud.com-00D9FF?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D171B" alt="Email Cameron" /></a>
+<a href="https://github.com/cameron-taberer"><img src="https://img.shields.io/badge/GITHUB-cameron--taberer-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D171B" alt="Cameron's GitHub" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM READY  //  BUILD SOMETHING USEFUL  //  KEEP MOVING FORWARD  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+</div>
