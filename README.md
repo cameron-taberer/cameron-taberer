@@ -30,45 +30,19 @@ I’m a software developer focused on building useful, reliable software that co
 
 My main areas of interest are:
 
-Trading systems and market analytics
-
-Internal tools and invoicing workflows
-
-AWS-backed applications and serverless automation
-
-Scalable web products and API integrations
+- Trading systems and market analytics
+- Internal tools and invoicing workflows
+- AWS-backed applications and serverless automation
+- Scalable web products and API integrations
 
 <img src="./assets/sections/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
-System
-
-Focus
-
-Typical stack
-
-Trading tools
-
-Market data, technical analysis, multi-timeframe analytics
-
-Python, cTrader API, React
-
-Internal platforms
-
-Business workflows, invoicing, reporting, user guidance
-
-Angular, AWS, PostgreSQL
-
-Automation systems
-
-Event-driven processes and operational tooling
-
-Python, AWS Lambda, APIs
-
-Web products
-
-Responsive, maintainable applications
-
-React, Angular, TypeScript
+| System | Focus | Typical stack |
+| --- | --- | --- |
+| Trading tools | Market data, technical analysis, multi-timeframe analytics | Python, cTrader API, React |
+| Internal platforms | Business workflows, invoicing, reporting, user guidance | Angular, AWS, PostgreSQL |
+| Automation systems | Event-driven processes and operational tooling | Python, AWS Lambda, APIs |
+| Web products | Responsive, maintainable applications | React, Angular, TypeScript |
 
 <img src="./assets/sections/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
@@ -82,29 +56,13 @@ React, Angular, TypeScript
 <summary><code>STACK_DETAILS.exe</code></summary>
 <br />
 
-Layer
-
-Technologies
-
-Cloud & infrastructure
-
-AWS, Azure, Docker, Linux
-
-Backend
-
-Python, Node.js, .NET, Express, NestJS
-
-Frontend
-
-React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap
-
-Data
-
-PostgreSQL, MySQL, SQLite
-
-Testing & tooling
-
-Jest, Postman, Git, Figma
+| Layer | Technologies |
+| --- | --- |
+| Cloud & infrastructure | AWS, Azure, Docker, Linux |
+| Backend | Python, Node.js, .NET, Express, NestJS |
+| Frontend | React, Angular, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
+| Data | PostgreSQL, MySQL, SQLite |
+| Testing & tooling | Jest, Postman, Git, Figma |
 
 </details>
 
@@ -144,8 +102,10 @@ Jest, Postman, Git, Figma
 
 <div align="center">
 
+```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  SYSTEM READY  //  BUILD SOMETHING USEFUL  //  KEEP MOVING FORWARD  ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
