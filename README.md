@@ -4,6 +4,9 @@
 <img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
 </div>
 
+<br />
+<br />
+
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
 Full stack software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, scalable web products, and mobile app development.
@@ -17,11 +20,13 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <img src="./assets/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <br />
+<br />
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts&perline=11" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
 </div>
 
+<br />
 <br />
 
 <img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
