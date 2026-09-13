@@ -36,7 +36,7 @@
   <circle cx="642" cy="234" r="4" fill="#00D9FF"/>
   <text x="658" y="239" fill="#00D9FF" font-family="monospace" font-size="12" letter-spacing="2">SYS_04</text>
   <text x="1140" y="239" text-anchor="end" fill="#7D9BA3" font-family="monospace" font-size="11" letter-spacing="2">ACTIVE</text>
-  <text x="642" y="282" fill="#E6E6E6" font-family="monospace" font-size="22" font-weight="700" letter-spacing="2">WEB PRODUCTS</text>
-  <text x="642" y="312" fill="#9BB4BB" font-family="monospace" font-size="13">Responsive / maintainable applications</text>
+  <text x="642" y="282" fill="#E6E6E6" font-family="monospace" font-size="22" font-weight="700" letter-spacing="2">WEB AND MOBILE</text>
+  <text x="642" y="312" fill="#9BB4BB" font-family="monospace" font-size="13">Responsive web apps / mobile app development</text>
   <text x="642" y="342" fill="#00D9FF" font-family="monospace" font-size="12" letter-spacing="1">STACK // React / Angular / TypeScript</text>
 </svg>

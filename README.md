@@ -6,7 +6,7 @@
 
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
-Software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, and scalable web products.
+Full stack software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, scalable web products, and mobile app development.
 
 <img src="./assets/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
