@@ -20,6 +20,9 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,docker,dotnet,express,figma,git,jest,linux,mysql,nestjs,nodejs,postgres,postman,py,react,sqlite,tailwind,ts" alt="Technologies: Angular, AWS, Azure, Bootstrap, C Sharp, Docker, .NET, Express, Figma, Git, Jest, Linux, MySQL, NestJS, Node.js, PostgreSQL, Postman, Python, React, SQLite, Tailwind CSS and TypeScript" />
 </div>
 
+<br />
+<br />
+
 <img src="./assets/04-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY" />
 
 <div align="center">
@@ -31,10 +34,10 @@ Software developer building with AWS, Python, React, Angular, and automation. Fo
 
 <img src="./assets/05-connect.svg" width="100%" alt="05 // CONNECT" />
 
-<div align="center">
-<a href="https://www.linkedin.com/in/cameron-taberer"><img src="https://img.shields.io/badge/LinkedIn-cameron--taberer-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D171B" alt="Cameron's LinkedIn" /></a>
-<a href="https://github.com/cameron-taberer"><img src="https://img.shields.io/badge/GitHub-cameron--taberer-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D171B" alt="Cameron's GitHub" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/cameron-taberer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/cameron-taberer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+</p>
 
 <div align="center">
 
