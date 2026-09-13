@@ -11,7 +11,7 @@
   <circle cx="40" cy="32" r="4" fill="#00D9FF"/>
   <text x="56" y="37" fill="#00D9FF" font-family="monospace" font-size="12" letter-spacing="2">FINAL TRANSMISSION</text>
   <text x="1160" y="37" text-anchor="end" fill="#7D9BA3" font-family="monospace" font-size="11" letter-spacing="2">SIGNAL // CLOSING</text>
-  <text x="600" y="88" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Do not resent those who achieve more than you.</text>
-  <text x="600" y="118" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Resent only that they were given the same days</text>
-  <text x="600" y="148" text-anchor="middle" fill="#00D9FF" font-family="monospace" font-size="18" letter-spacing="1">and spent them better.</text>
+  <text x="600" y="82" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Do not resent those who achieve more than you.</text>
+  <text x="600" y="110" text-anchor="middle" fill="#E6E6E6" font-family="monospace" font-size="18" letter-spacing="1">Resent only that they were given the same days</text>
+  <text x="600" y="138" text-anchor="middle" fill="#00D9FF" font-family="monospace" font-size="18" letter-spacing="1">and spent them better.</text>
 </svg>
