@@ -12,18 +12,19 @@
 
 <br />
 
-> WATCHDOGS_OS // PROFILE NODE 01
-> CAMERON TABERER // SOFTWARE DEVELOPER
->
-> Building practical systems with AWS, Python, React, Angular,
-> and automation — from trading tools to internal business platforms.
->
-> [ DESIGNING RELIABLE WORKFLOWS ]  [ SIGNAL: ONLINE ]
-> [ TURNING COMPLEX PROCESSES INTO USABLE SOFTWARE ]
-> [ SHIPPING SCALABLE PRODUCTS ]  [ ACCESS: GRANTED ]
+<pre>
+WATCHDOGS_OS // PROFILE NODE 01
+CAMERON TABERER // SOFTWARE DEVELOPER
 
-<h2><code>01 // PROFILE</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+Building practical systems with AWS, Python, React, Angular,
+and automation — from trading tools to internal business platforms.
+
+[ DESIGNING RELIABLE WORKFLOWS ]  [ SIGNAL: ONLINE ]
+[ TURNING COMPLEX PROCESSES INTO USABLE SOFTWARE ]
+[ SHIPPING SCALABLE PRODUCTS ]  [ ACCESS: GRANTED ]
+</pre>
+
+<img src="./assets/sections/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
 I’m a software developer focused on building useful, reliable software that connects people, data, and automated workflows.
 
@@ -37,8 +38,7 @@ AWS-backed applications and serverless automation
 
 Scalable web products and API integrations
 
-<h2><code>02 // SYSTEMS I BUILD</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+<img src="./assets/sections/02-systems.svg" width="100%" alt="02 // SYSTEMS I BUILD" />
 
 System
 
@@ -70,8 +70,7 @@ Responsive, maintainable applications
 
 React, Angular, TypeScript
 
-<h2><code>03 // TECHNOLOGY MATRIX</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+<img src="./assets/sections/03-technology.svg" width="100%" alt="03 // TECHNOLOGY MATRIX" />
 
 <div align="center">
 
@@ -109,8 +108,7 @@ Jest, Postman, Git, Figma
 
 </details>
 
-<h2><code>04 // CURRENT OPERATING MODE</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+<img src="./assets/sections/04-operating-mode.svg" width="100%" alt="04 // CURRENT OPERATING MODE" />
 
 <div align="center">
 
@@ -120,8 +118,7 @@ Jest, Postman, Git, Figma
 
 </div>
 
-<h2><code>05 // GITHUB TELEMETRY</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+<img src="./assets/sections/05-telemetry.svg" width="100%" alt="05 // GITHUB TELEMETRY" />
 
 <div align="center">
 
@@ -134,8 +131,7 @@ Jest, Postman, Git, Figma
 
 </div>
 
-<h2><code>06 // CONNECT</code></h2>
-<img src="./assets/red-accent.svg" width="100%" alt="" />
+<img src="./assets/sections/06-connect.svg" width="100%" alt="06 // CONNECT" />
 
 <div align="center">
 
