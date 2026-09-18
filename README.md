@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer - Software Developer" />
 <br />
-<img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
+<img src="./assets/status-badge.svg" height="36" alt="Status: Building systems" />
 </div>
 
 <br />
