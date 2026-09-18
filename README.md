@@ -36,6 +36,12 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cameron-taberer&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=prs,issues,contribs&theme=dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="140" alt="Cameron's GitHub statistics" />
 <br />
 <img src="https://streak-stats.demolab.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3&cache_seconds=1800" height="180" alt="Cameron's GitHub contribution streak" />
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cameron-taberer/cameron-taberer/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cameron-taberer/cameron-taberer/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cameron-taberer/cameron-taberer/output/pacman-contribution-graph-dark.svg" width="100%" />
+</picture>
 </div>
 
 <br />
