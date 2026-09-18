@@ -37,7 +37,7 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <br />
 <img src="https://ssr-contributions-svg.vercel.app/_/cameron-taberer?chart=3dbar&gap=0.25&scale=2&flatten=1&animation=fall&animation_duration=2&animation_delay=0.03&format=svg&weeks=40&colors=090B0F,12343B,00A6C7,00D9FF,E6F9FF" width="100%" alt="3D contribution graph" />
 <br />
-<img src="https://icon.mzrdev.com/snk?username=cameron-taberer&palette=github-dark&color_snake=00D9FF&color_dots=0D171B,12343B,00A6C7,00D9FF,E6F9FF&color_bar_by_eaten=true&show_score=true&speed=1" width="100%" alt="Contribution snake animation" />
+<img src="https://icon.mzrdev.com/trophy?username=cameron-taberer&theme=dark&column=4&margin-w=12&margin-h=12" width="100%" alt="GitHub trophies" />
 </div>
 
 <br />
