@@ -37,7 +37,7 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 <br />
 <img src="https://icon.mzrdev.com/snk?username=cameron-taberer&palette=github-dark&color_snake=00D9FF&color_dots=0D171B,12343B,00A6C7,00D9FF,E6F9FF&color_bar_by_eaten=true&show_score=true&speed=1" width="100%" alt="Contribution snake animation" />
 <br />
-<img src="https://icon.mzrdev.com/typing?text=FULL+STACK+DEVELOPER;BUILDING+SYSTEMS;WEB+%26+MOBILE&font=Fira+Code&color=00D9FF&background=090B0F&center=true&height=80" width="100%" alt="Typing animation" />
+<img src="https://icon.mzrdev.com/typing?text=%3E_+INIT_PROFILE.exe;%3E_+SCAN_NETWORK...;%3E_+ACCESS_GRANTED;%3E_+SIGNAL_SECURE&font=Fira+Code&color=00D9FF&background=090B0F&center=true&height=70" width="100%" alt="System terminal typing animation" />
 </div>
 
 <br />
