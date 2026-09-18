@@ -1,7 +1,5 @@
 <div align="center">
 <img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer - Software Developer" />
-<br />
-<img src="./assets/status-badge.svg" height="36" alt="Status: Building systems" />
 </div>
 
 <br />
