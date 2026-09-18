@@ -33,7 +33,7 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3&cache_seconds=1800" height="180" alt="Cameron's GitHub contribution streak" />
 <br />
-<img src="https://icon.mzrdev.com/snk?username=cameron-taberer&palette=github-dark&color_snake=00D9FF&color_dots=0D171B,12343B,00A6C7,00D9FF,E6F9FF&color_bar_by_eaten=true&show_score=true&speed=1" width="100%" alt="Contribution snake animation" />
+<img src="https://ssr-contributions-svg.vercel.app/_/cameron-taberer?chart=3dbar&gap=0.25&scale=2&flatten=1&animation=fall&animation_duration=2&animation_delay=0.03&format=svg&weeks=40&colors=090B0F,12343B,00A6C7,00D9FF,E6F9FF" width="100%" alt="3D contribution graph" />
 </div>
 
 <br />
