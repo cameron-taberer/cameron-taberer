@@ -34,9 +34,9 @@ Full stack software developer building with AWS, Python, React, Angular, and aut
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B" height="165" alt="Cameron's most used programming languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cameron-taberer&theme=github_dark&bg_color=090B0F&title_color=00D9FF&text_color=E6E6E6&icon_color=00A6C7&border_color=12343B&utcOffset=2" height="165" alt="Cameron's productive time" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3" height="180" alt="Cameron's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=cameron-taberer&theme=dark&background=090B0F&border=12343B&stroke=12343B&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6E6E6&dates=7D9BA3&cache_seconds=1800" height="180" alt="Cameron's GitHub contribution streak" />
 </div>
 
 <br />
