@@ -1,8 +1,6 @@
 <div align="center">
 <img src="./assets/profile-banner.svg" width="100%" alt="Cameron Taberer - Software Developer" />
 <br />
-<img src="https://icon.mzrdev.com/typing?text=%3E_+INIT_PROFILE.exe;%3E_+SCAN_NETWORK...;%3E_+ACCESS_GRANTED;%3E_+SIGNAL_SECURE&font=Fira+Code&color=00D9FF&background=090B0F&center=true&height=70" width="100%" alt="System terminal typing animation" />
-<br />
 <img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-00D9FF?style=for-the-badge&labelColor=0D171B" alt="Status: Building systems" />
 </div>
 
