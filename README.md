@@ -6,7 +6,7 @@
 
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
-<img src="./assets/profile-bio.svg" width="100%" alt="Full stack software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, scalable web products, and mobile app development." />
+<img src="./assets/profile-bio.svg" width="100%" alt="Full stack software developer building with AWS, Python, React, and Angular. Focused on trading systems, internal tools, scalable web products, and mobile app development." />
 
 <br />
 
