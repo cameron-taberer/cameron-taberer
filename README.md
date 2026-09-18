@@ -6,7 +6,7 @@
 
 <img src="./assets/01-profile.svg" width="100%" alt="01 // PROFILE" />
 
-Full stack software developer building with AWS, Python, React, Angular, and automation. Focused on trading systems, internal tools, scalable web products, and mobile app development.
+Full stack developer who turns messy processes into software people actually use — trading tools, internal platforms, web products, and mobile apps. Comfortable across AWS, Python, React, and Angular, with a bias toward automation and systems that stay reliable once they ship.
 
 <br />
 
